@@ -47,7 +47,7 @@ Use this if the dependencies are already installed.
 !!YOU HAVE TO BE SIGNED IN IN YOUR MICROSOFT ACCOUNT BEFORE OR AFTER INSTALL!!
 
 NOTE: Run AOnlyCrossyRoad.bat if You are NOT using ltsc!
-1. Download or clone this repository.
+1. [Download](https://github.com/icreaterandomapps/CrossyRoadPC/releases/download/CrossyRoad/CrossyroadINstall.zip) this repository.
 2. Extract all files into the same folder.
 3. Right-click the installer `.bat` file.
 4. Select **Run as administrator**.
