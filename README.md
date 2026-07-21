@@ -45,6 +45,7 @@ Use this if the dependencies are already installed.
 ## Installation
 
 !!YOU HAVE TO BE SIGNED IN IN YOUR MICROSOFT ACCOUNT BEFORE OR AFTER INSTALL!!
+
 NOTE: Run AOnlyCrossyRoad.bat if You are NOT using ltsc!
 1. Download or clone this repository.
 2. Extract all files into the same folder.
